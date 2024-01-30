@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T12:28:52.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="m3XMMbT7omO3zOhHB18Z" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T12:33:56.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="BoGvMaRZs4Juy2wZWEHY" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="cjbGRx0S7E2pipC_ybSz">
     <mxGraphModel dx="2946" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -176,6 +176,12 @@
         </mxCell>
         <mxCell id="m-A_8NVtthORfa7GAGQP-3" value="&lt;div&gt;Ready to Merge&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA92tLmJliepGvIRh7k4-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="70" as="sourcePoint" />
+            <mxPoint x="1680" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
